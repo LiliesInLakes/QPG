@@ -17,6 +17,7 @@ paper is generated in seconds. The questions are selected from a large pool of q
 inbuilt in QPG. This database of questions can also be enhanced by the educators. The app runs using Streamlit.
 
 ![image](https://user-images.githubusercontent.com/87311399/151945864-32b7d12a-5d68-4435-814c-88166ad69fbb.png)
+
 This is the look and feel of the QPG web app.
 
 
